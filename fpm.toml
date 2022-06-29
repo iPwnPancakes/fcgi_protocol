@@ -1,0 +1,6 @@
+name = "fcgi"
+version = "0.0.1"
+license = "MIT"
+author = "author of https://cyber.dabamos.de/programming/modernfortran/fastcgi.html"
+maintainer = "pengel@hs-nb.de"
+copyright = "N/A"
